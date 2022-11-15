@@ -82,7 +82,7 @@ client.on("message", async message => {
 \`anti hack\` **on**
 [Click Here To invite](https://discord.com/api/oauth2/authorize?client_id=922752221232369694&permissions=8&scope=bot) 
 
-[Click Here To Support](https://discord.gg/xJR7Sn84yu)
+[Click Here To Support](https://discord.gg/pvehfeYQ)
 `);
 
     message.channel.send(help);
@@ -770,5 +770,5 @@ client.on('guildDelete', guild => {
 });
 
 
-client.login("تــــۆکین لێرە دانێ");
+client.login("MTA0MTgyMDM5MjExMDY4NjIxOA.GYr2jk.WMjaYQ9AzLZpAZ6muWVdjugwnOnwu-BwruZI5M);
 ////////////Coded By ANO
