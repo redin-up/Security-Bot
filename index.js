@@ -9,7 +9,7 @@ client.on("ready", async () => {
   console.log(`${client.guilds.cache.reduce((a, g) => a + g.memberCount, 0)} Users .`);
  client.user.setStatus("invisible")
   client.user.setActivity("s!help | Security Is Here", {
-    type: "PLAYING"
+    type: "STREAMING"
   });
 });
 
@@ -770,5 +770,5 @@ client.on('guildDelete', guild => {
 });
 
 
-client.login("MTA0MTgyMDM5MjExMDY4NjIxOA.GYr2jk.WMjaYQ9AzLZpAZ6muWVdjugwnOnwu-BwruZI5M);
+client.login("MTA0MTgyMDM5MjExMDY4NjIxOA.GYr2jk.WMjaYQ9AzLZpAZ6muWVdjugwnOnwu-BwruZI5M");
 ////////////Coded By ANO
