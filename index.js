@@ -9,7 +9,7 @@ client.on("ready", async () => {
   console.log(`${client.guilds.cache.reduce((a, g) => a + g.memberCount, 0)} Users .`);
  client.user.setStatus("invisible")
   client.user.setActivity("s!help | Security Is Here", {
-    type: "STREAMING"
+    type: "PLAYING"
   });
 });
 
